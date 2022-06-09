@@ -10,10 +10,6 @@
     "sourceMap": true,
     "outDir": "./dist",
     "baseUrl": "./",
-    "paths": {
-      "@app/*": ["app/*"],
-      "@trigger/*": ["app/trigger/ts/*"]
-    },
     "incremental": true,
     "skipLibCheck": true,
     "strictNullChecks": false,
